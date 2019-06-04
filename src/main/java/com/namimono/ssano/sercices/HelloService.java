@@ -1,4 +1,4 @@
-package service;
+package com.namimono.ssano.sercices;
 
 import org.springframework.stereotype.Service;
 
